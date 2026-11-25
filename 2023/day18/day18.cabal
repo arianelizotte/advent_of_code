@@ -1,7 +1,7 @@
 cabal-version:      2.4
 name:               day18
 version:            0.1.0.0
-author:             Simon Lizotte
+author:             Ariane Lizotte
 
 executable part1
     main-is:          Part1.hs
